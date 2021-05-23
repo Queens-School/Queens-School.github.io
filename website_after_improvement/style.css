@@ -66,4 +66,5 @@ button.back-to-top.show:active {
   position: absolute;
   bottom: 0;
   width: 97.4%;
+  algin: center;
 }
