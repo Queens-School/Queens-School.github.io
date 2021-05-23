@@ -63,6 +63,4 @@ button.back-to-top.show:active {
   padding: 20px;
   grid-row-start: 1;
   grid-row-end: 3;
-  bottom: 0;
-
 }
